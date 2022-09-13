@@ -22,7 +22,7 @@ Hier geef ik aan waar de regio zich bevind alsook detail maps voor de regio zelf
 # Phandalin
 
 Phandalin is de thuisbasis van de party.  
-Gedetailleerde omschrijving van Phandalin is te vinden in de adventure recap "[2 Defrosting in Phandalin](../adventure-recaps/2-defrosting-in-phandalin.md)"
+Gedetailleerde omschrijving van Phandalin is te vinden in de adventure recap "[2 Defrosting in Phandalin](adventure-recaps/2-defrosting-in-phandalin.md)"
 
 > Genesteld in de rotsachtige uitlopers van de met sneeuw bedekte Sword Mountains ligt het mijnstadje Phandalin, dat bestaat uit veertig of vijftig eenvoudige blokhutten.  
 Afbrokkelende stenen ruïnes omringen de nieuwere huizen en winkels en laten zien hoe dit in de afgelopen eeuwen een veel grotere stad moet zijn geweest.
