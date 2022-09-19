@@ -34,14 +34,14 @@ Als jullie door de ruines lopen, zien jullie het volgende in de verte:
 
 > Een gedeeltelijk ingestorte, drie meter hoge muur scheidt deze binnenplaats van de nederzetting ten westen ervan.  In dit gebied liggen drie puinhopen hoog opgestapeld.  Een tien meter hoge tempelgevel, uitgehouwen uit de achterwand van de kloof, heeft treden die naar een stenen platform leiden.  In deze gevel is een drie meter hoge open deuropening uitgesneden, geflankeerd door afbrokkelende, levensgrote granieten beelden van verhulde dwergen.  Kwade grijns is te zien op hun verweerde gezichten.
 
-De tekeningen zijn van Abbathor, de slechte dwerggod van hebzucht.
+De tekeningen zijn van **Abbathor**, de slechte dwerggod van hebzucht.
 De grote hebzuchtmeester oefent invloed uit, hoe subtiel ook, over elk dwerghart.
 
 Tijdens zonsverduisteringen is Abbathor tevreden met bloed- en edelstenenoffers.
 
-Abbathor leert dat hebzucht niet alleen wenselijk is, maar ook noodzakelijk.
+**Abbathor** leert dat hebzucht niet alleen wenselijk is, maar ook noodzakelijk.
 
-Abbathor heeft geen vaardigheid in dingen bouwen. In plaats daarvan vertrouwt hij op zijn vermogen als dief en bedrieger om eigenaar te worden van wat hij wil.
+**Abbathor** heeft geen vaardigheid in dingen bouwen. In plaats daarvan vertrouwt hij op zijn vermogen als dief en bedrieger om eigenaar te worden van wat hij wil.
 
 In de verte horen jullie twee mannen ruzie maken.  
 Als jullie dichterbij komen zien jullie dat het twee dwergen zijn die ruzie aan het maken zijn over dat ze nog niet alle schatten gevonden hebben.  
@@ -49,7 +49,7 @@ Als jullie dichterbij komen zien jullie dat het twee dwergen zijn die ruzie aan 
 Ze hebben iets zien bewegen in de tempel en vragen jullie om hulp.  
 Als jullie de tempel veilig kunnen maken voor hen, kunnen ze jullie wel iets geven.  
 
-Ze stellen zich voor als Dazlyn Grayshard en Norbus Ironrune.
+Ze stellen zich voor als **Dazlyn Grayshard** en **Norbus Ironrune**.
 
 Eenmaal in de tempel worden jullie verrast door meerdere *Ochre Jelly*.
 

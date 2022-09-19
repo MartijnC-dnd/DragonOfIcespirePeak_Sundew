@@ -62,18 +62,23 @@ Hier treffen jullie de inventors aan, die discusieren over wat ze zullen bouwen 
 Het debat gaat tussen een *Sanity Ray* en een *Straitjacket*.  
 Als jullie binnenkomen, leggen ze de hele situatie uit met de koningen en vragen om hulp dan krijgen jullie nog meer magische items om tegen de draak te vechten.
 
+![gnome](img/5_gnome.jpg)
+
 Als voorschot hebben jullie een [Pole of Collapsing - Thershann](https://www.dndbeyond.com/magic-items/27112-pole-of-collapsing)
 
 Ze vertellen jullie ook dat de koningen de beste magic items hebben.
 
 Als ze akkoord gaan dan verwijzen de uitvinders de PCs door naar de koningen in de aangrenzende kamers. Terwijl zij nog verder gaan discussieren.
 
-Wanneer jullie op de slaapkamer van kloppen, dan antwoord Koning Korboz.
+Wanneer jullie op de slaapkamer van kloppen, dan antwoord Koning **Korboz**.
 Hij zegt dat hij de deur niet open durft te doen. Hij weet dat er een shape shifter is.
-Het heeft me aangevallen. Toen leek het op een groot tapijt in de troonzaal. Maar het is er vast al lang vandoor en ziet er anders uit. Misschien was het Gnerkli wel, daarom heb ik hem vastgebonden omdat ik denk dat hij het is. Ik laat jullie er pas in als jullie me bewijs brengen dat de shape shifter dood is!
+Het heeft me aangevallen. Toen leek het op een groot tapijt in de troonzaal. Maar het is er vast al lang vandoor en ziet er anders uit. Misschien was het **Gnerkli** wel, daarom heb ik hem vastgebonden omdat ik denk dat hij het is. Ik laat jullie er pas in als jullie me bewijs brengen dat de shape shifter dood is!
 Vraag de bewoners om jullie te helpen om hem sneller te ontmaskeren!
 
 Na enige zoektocht weten jullie de *mimic* te vinden.  
+
+![mimic](img/5_mimic.jpg)
+
 Na een gevecht kunnen jullie het overmeesteren en krijgen jullie van de koningen volgende items:
 
 - [Hat of Wizardry - Corbett](https://www.dndbeyond.com/magic-items/27050-hat-of-wizardry)

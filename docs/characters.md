@@ -19,3 +19,10 @@ has_children: false
 |  Linene Graywind    |  Uitbater van Lionshield Coster    | [2 Defrosting in Phandalin](adventure-recaps/2-defrosting-in-phandalin.md) |
 |  Harbin Wester    |  Stadsmeester van **Phandalin**    | [2 Defrosting in Phandalin](adventure-recaps/2-defrosting-in-phandalin.md) |
 |  Adabra Gwynn    | Potion maker in **Umbrage Hill**    | [3 Rescuing the lady of the mill](adventure-recaps\3-rescuing-the-lady-of-the-mill.md) |
+| Dazlyn Grayshard | Dwerg mijner aan de tempel van **Abbathor** |  [4 Dwarven excavation](adventure-recaps\4-dwarven-excavation.md) |
+| Norbus Ironrune  | Dwerg mijner aan de tempel van **Abbathor** |  [4 Dwarven excavation](adventure-recaps\4-dwarven-excavation.md) |
+| Joybell | Gnome in een crab walker aan de ingang|  [5 Gnomengarde](adventure-recaps\5-gnomengarde.md) |
+| Fibblestick  | Uitvinder van **Gnomengarde** |   [5 Gnomengarde](adventure-recaps\5-gnomengarde.md) |
+| Dabbledob  | Uitvinder van **Gnomengarde** |   [5 Gnomengarde](adventure-recaps\5-gnomengarde.md) |
+| Korboz  | Koning van **Gnomengarde** |  [5 Gnomengarde](adventure-recaps\5-gnomengarde.md) |
+| Gnerkli  | Koning van **Gnomengarde** |   [5 Gnomengarde](adventure-recaps\5-gnomengarde.md) |
