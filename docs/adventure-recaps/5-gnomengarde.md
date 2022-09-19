@@ -68,7 +68,7 @@ Als voorschot hebben jullie een [Pole of Collapsing - Thershann](https://www.dnd
 
 Ze vertellen jullie ook dat de koningen de beste magic items hebben.
 
-Als ze akkoord gaan dan verwijzen de uitvinders de PCs door naar de koningen in de aangrenzende kamers. Terwijl zij nog verder gaan discussieren.
+Als ze akkoord gaan dan verwijzen de uitvinders door naar de koningen in de aangrenzende kamers. Terwijl zij nog verder gaan discussieren.
 
 Wanneer jullie op de slaapkamer van kloppen, dan antwoord Koning **Korboz**.
 Hij zegt dat hij de deur niet open durft te doen. Hij weet dat er een shape shifter is.
